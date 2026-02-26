@@ -1,4 +1,4 @@
-# in-Driven Hexagon
+# n-Driven Hexagon
 
 **Check out my other repositories**:
 
