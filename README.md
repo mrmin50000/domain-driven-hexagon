@@ -1,4 +1,4 @@
-# omain-Driven Hexagon
+# main-Driven Hexagon
 
 **Check out my other repositories**:
 
