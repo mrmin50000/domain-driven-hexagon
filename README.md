@@ -1,4 +1,4 @@
-# Domain-Driven Hexagon
+# omain-Driven Hexagon
 
 **Check out my other repositories**:
 
